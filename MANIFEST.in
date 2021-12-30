@@ -1,0 +1,6 @@
+include LICENSE
+include MANIFEST.in
+include README.rst
+graft django_start_tool
+global-exclude __pycache__
+global-exclude *.py[co]
