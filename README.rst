@@ -2,7 +2,13 @@
 django-start-tool
 =================
 
-.. image:: https://img.shields.io/pypi/v/django-start-tool   :alt: PyPI
+.. image:: https://img.shields.io/pypi/v/django-start-tool.svg
+    :target: https://pypi.org/project/django-start-tool/
+    :alt: PyPI
+
+.. image:: https://img.shields.io/pypi/l/django-start-tool.svg
+    :target: https://pypi.org/project/django-start-tool/
+    :alt: PyPI - License
 
 Introduction
 ------------
