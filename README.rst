@@ -2,6 +2,8 @@
 django-start-tool
 =================
 
+.. image:: https://img.shields.io/pypi/v/django-start-tool   :alt: PyPI
+
 Introduction
 ------------
 
